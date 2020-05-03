@@ -1,0 +1,5 @@
+tcp	6	TCP		# transmission control protocol
+udp	17	UDP		# user datagram protocol
+udplite	136	UDPLite		# UDP-Lite [RFC3828]
+skip	57	SKIP		# SKIP
+ipip	94	IPIP		# IP-within-IP Encapsulation Protocol
